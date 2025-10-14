@@ -68,3 +68,11 @@ Olá @val1, tudo bem?
 Meu nome é @val2, falo aqui da @val3.
 Podemos finalizar o atendimento?
 
+#### **2. Estrutura do Arquivo de Contatos (telefones.txt)**
+
+Cada linha deve seguir o padrão de valores separados por vírgula (CSV):
+
+```text
+5531313131,NomeCliente1,MeuNome1,MinhaEmpresa1
+5531313131,NomeCliente2,MeuNome2,MinhaEmpresa2
+5531313131,NomeCliente3,MeuNome3,MinhaEmpresa3
