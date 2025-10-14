@@ -67,3 +67,4 @@ Use as variáveis dentro da sua mensagem:
 Olá @val1, tudo bem?
 Meu nome é @val2, falo aqui da @val3.
 Podemos finalizar o atendimento?
+
