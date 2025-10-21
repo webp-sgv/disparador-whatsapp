@@ -1,0 +1,27 @@
+{
+  "name": "disparador-whatsapp",
+  "version": "1.0.0",
+  "description": "Disparador de mensagens em massa para WhatsApp.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webp-sgv/disparador-whatsapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/webp-sgv/disparador-whatsapp/issues"
+  },
+  "homepage": "https://github.com/webp-sgv/disparador-whatsapp#readme",
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.37.5",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "winston": "^3.18.3"
+  }
+}
